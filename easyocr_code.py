@@ -48,4 +48,4 @@ def overlay_ocr_text(img_path, save_name):
 
 #img = cv2.imread(path)
 #img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
-overlay_ocr_text(path, 'alert1')
+#overlay_ocr_text(path, 'alert1')
